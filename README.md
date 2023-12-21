@@ -38,11 +38,12 @@
 # 💫 About Me:
 🔭 I’m currently internship at Xeersoft<br>🤝 I’m looking to grow my network and knowledge in repo<br>🌱 I’m currently learning Typescript and MERN Stack<br>💬 Ask me about collab and project <br>⚡ UTHM Student Malaysia
 
-
-## 🌐 Socials:
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
+
+## 🌐 Socials:
+
 <p align="center">
  <a href="https://hafizuddin-portfolio.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="portfolio" />
