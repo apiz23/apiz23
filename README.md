@@ -46,16 +46,16 @@
 
 <p align="center">
  <a href="https://hafizuddin-portfolio.vercel.app/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="portfolio" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="portfolio" target="_blank" />
  </a>
  <a href="https://www.linkedin.com/in/muh-hafizuddin/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" target="_blank" />
  </a>
  <a href="https://www.instagram.com/apizuddin_2/?hl=en" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" target="_blank" />
  </a> 
  <a href="https://www.tiktok.com/@hafizu_2?is_from_webapp=1&sender_device=pc" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok"  />
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok" target="_blank" />
   </a> 
 </p>
 
