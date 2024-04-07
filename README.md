@@ -36,7 +36,7 @@
 </div>-->
 
 # 💫 About Me:
-🔭 Just Finished Internship at Xeersoft<br>🤝 I’m looking to grow my network and knowledge in repo<br>🌱 I’m currently learning Typescript and more to Next Js<br>💬 Ask me about collab and project <br>⚡ Ex UTHM Student Malaysia
+🔭 Just Finished Internship at Xeersoft<br>🤝 I’m looking to grow my network and knowledge in repo<br>🌱 I’m currently learning Typescript and more to Next Js<br>💬 Ask me about collab and project <br>⚡ UTHM Student Malaysia
 
 ## 🌐 Socials:
 
