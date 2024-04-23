@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="800" src="https://www.etawau.com/edu/UniversitiesPublic/UTHM/images/UTHM_01.jpg"  />
+  <img height="600" src="https://www.etawau.com/edu/UniversitiesPublic/UTHM/images/UTHM_01.jpg"  />
 </div>
 
 ###
