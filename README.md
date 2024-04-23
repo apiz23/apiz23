@@ -2,13 +2,6 @@
   <img height="600" src="https://www.etawau.com/edu/UniversitiesPublic/UTHM/images/UTHM_01.jpg"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/apiz23/apiz23/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
