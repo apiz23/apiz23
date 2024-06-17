@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="600" src="https://www.etawau.com/edu/UniversitiesPublic/UTHM/images/UTHM_01.jpg"  />
-</div>
-
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
