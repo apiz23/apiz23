@@ -12,10 +12,6 @@
 
 <p align="left">Love to spend time learning especially Math Σ and Programming 👨‍💻<br><br>Ambivert</p>
 
-<h3>My Software Engineer Batch</h3>
-
-![Google Drive Image](https://drive.google.com/uc?export=view&id=19f3fL2O5iW3owQBmLLfXy9O8oqKKH9CQ)
-
 <h2 align="left">Tech that I familiar with</h2>
 
 ###
