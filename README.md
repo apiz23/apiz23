@@ -1,70 +1,86 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">Name -> Muhd Hafizuddin<br>Birth - >2003 | Feb<br>University -> Universiti Tun Hussein Onn Malaysia<br>Course -> Computer Sciences - Software Enginnering</p>
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5mN2V0b2R1a2Y2eGJ0Z3B4dWJ6dG1yZ2l4cW9qY2N6b3B2eGZ2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
+</div>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="center">
+  <strong>Muhd Hafizuddin</strong> • 2003 | Feb<br>
+  Computer Science - Software Engineering<br>
+  Universiti Tun Hussein Onn Malaysia
+</p>
 
 ###
 
-<p align="left">Love to spend time learning especially Math Σ and Programming 👨‍💻<br><br>Ambivert</p>
-
-<h2 align="left">Tech that I familiar with</h2>
+<h2 align="center">✨ About Me</h2>
 
 ###
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="docker logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
-  <img width="5" />
+
+<p align="center">
+  Passionate about Mathematics (Σ) and Programming 👨‍💻<br>
+  Ambivert • Continuous Learner • Problem Solver
+</p>
+
+###
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,html,css,tailwind,laravel,docker,postgres,postman,figma,git" alt="Tech Stack" />
+</div>
+
+###
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apiz23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apiz23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&order=2" height="150" alt="languages graph" />
+  
+  <img src="https://streak-stats.demolab.com?user=apiz23&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 ###
 
 <div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=apiz23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph" width="100%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apiz23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph" width="100%" />
-      
-  <img src="https://streak-stats.demolab.com?user=apiz23&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph" width="100%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apiz23&radius=16&theme=react&area=true&order=5" alt="activity-graph graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apiz23&radius=16&theme=react&area=true&hide_border=true&order=4" alt="activity graph" />
 </div>
-
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/apiz23/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/apiz23/count.svg?" alt="Visitor counter" />
 </div>
 
 ###
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+###
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://twitter.com/yourprofile" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2N2d2d2eG5sNnN1dGJ6c2R4d2V0dWl4a2N3Y2J6d2Z6eG5qZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIqmM5tTjmpOB9mpbn/giphy.gif" height="100" alt="Coding GIF" />
+</div>
