@@ -56,15 +56,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/apiz23/count.svg?" alt="Visitor counter" />
-</div>
-
-###
-
-###
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2N2d2d2eG5sNnN1dGJ6c2R4d2V0dWl4a2N3Y2J6d2Z6eG5qZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIqmM5tTjmpOB9mpbn/giphy.gif" height="100" alt="Coding GIF" />
-</div>
